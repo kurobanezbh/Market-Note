@@ -14,3 +14,10 @@ Ultimately, this meeting is less about today's rate decision and more about unde
 
 ## Federal Reserve Notes
 
+Before the meeting, investors largely expected the Federal Reserve to leave interest rates unchanged. The real focus was never the rate decision itself, but rather what the Fed's updated projections and new Chair Kevin Warsh would reveal about the future path of policy. As inflation remains above target and energy prices have been pushed higher by geopolitical tensions, markets entered the meeting searching for clues about whether the next move would be a rate cut or a rate hike.
+
+On the bullish side, the economy continues to show resilience. The labor market remains relatively healthy, consumer spending has held up, and AI-related investment continues to support growth. This gives policymakers flexibility to wait for more data before making major policy adjustments. If inflation moderates in the coming months, the Fed could eventually regain room to ease policy without jeopardizing economic stability.
+
+However, the balance of risks appears to be shifting. Several policymakers have become more concerned about persistent inflation, and updated forecasts suggest that the prospect of additional tightening can no longer be dismissed. Markets that have become accustomed to expecting lower rates may be vulnerable if inflation proves stickier than anticipated.
+
+Ultimately, the key takeaway is that the Fed is no longer debating when to cut rates, but rather whether inflation risks are significant enough to justify keeping policy restrictive for longer—or even tightening further. For investors, the message is clear: monetary policy uncertainty remains a major market driver heading into the second half of 2026.
