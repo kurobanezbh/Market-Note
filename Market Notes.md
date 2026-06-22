@@ -21,3 +21,13 @@ On the bullish side, the economy continues to show resilience. The labor market 
 However, the balance of risks appears to be shifting. Several policymakers have become more concerned about persistent inflation, and updated forecasts suggest that the prospect of additional tightening can no longer be dismissed. Markets that have become accustomed to expecting lower rates may be vulnerable if inflation proves stickier than anticipated.
 
 Ultimately, the key takeaway is that the Fed is no longer debating when to cut rates, but rather whether inflation risks are significant enough to justify keeping policy restrictive for longer—or even tightening further. For investors, the message is clear: monetary policy uncertainty remains a major market driver heading into the second half of 2026.
+
+# 2026-06-22 Market Notes
+
+## Federal Reserve Notes
+
+The Federal Reserve's latest messaging has sent a clear signal: policymakers are increasingly concerned that inflation may prove more persistent than markets had expected. While investors had spent much of the past year debating the timing of future rate cuts, the conversation has shifted toward whether the Fed will need to maintain restrictive policy for longer than anticipated. The key question is whether the Fed's tougher rhetoric represents a genuine policy pivot or simply an effort to keep inflation expectations under control.
+
+Optimists argue that the Fed may ultimately have room to avoid further tightening. Recent inflation data has shown signs of moderation, economic growth remains relatively stable, and financial conditions have not deteriorated significantly. From this perspective, policymakers may be deliberately sounding hawkish to preserve credibility while waiting for additional evidence that price pressures are easing. In other words, the Fed's words could be tougher than its actions.
+
+However, there is also a risk that markets are underestimating the Fed's willingness to follow through. If inflation remains stubbornly above target, particularly in services and wage-sensitive sectors, policymakers may have little choice but to keep rates elevated or even consider additional tightening. Ultimately, the gap between what the Fed is saying and what investors expect could become a major source of market volatility. For now, investors should focus less on the rhetoric itself and more on the economic data that will determine whether the Fed is forced to act.
