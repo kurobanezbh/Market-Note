@@ -31,3 +31,15 @@ The Federal Reserve's latest messaging has sent a clear signal: policymakers are
 Optimists argue that the Fed may ultimately have room to avoid further tightening. Recent inflation data has shown signs of moderation, economic growth remains relatively stable, and financial conditions have not deteriorated significantly. From this perspective, policymakers may be deliberately sounding hawkish to preserve credibility while waiting for additional evidence that price pressures are easing. In other words, the Fed's words could be tougher than its actions.
 
 However, there is also a risk that markets are underestimating the Fed's willingness to follow through. If inflation remains stubbornly above target, particularly in services and wage-sensitive sectors, policymakers may have little choice but to keep rates elevated or even consider additional tightening. Ultimately, the gap between what the Fed is saying and what investors expect could become a major source of market volatility. For now, investors should focus less on the rhetoric itself and more on the economic data that will determine whether the Fed is forced to act.
+
+# 2026-06-26 Market Notes
+
+## SpaceX update news
+
+SpaceX's post-IPO decline is beginning to shift the market narrative from excitement to valuation discipline. After setting a new post-IPO closing low, the stock has surrendered a significant portion of its early gains, reminding investors that even the most compelling growth stories are not immune to profit-taking and changing market sentiment. The initial rally reflected enormous enthusiasm for SpaceX's leadership in space exploration, satellite connectivity, and artificial intelligence, but the recent pullback suggests investors are becoming more selective about the price they are are willing to pay for future growth.
+
+Despite the correction, the longer-term investment case remains largely intact. Retail investors have continued to accumulate shares, indicating confidence in the company's competitive advantages and long-term growth prospects. In addition, upcoming Wall Street analyst initiations and the stock's inclusion in major equity indices could attract incremental institutional demand over time.
+
+However, the recent weakness also highlights the risks associated with elevated expectations. SpaceX still trades at a premium valuation, while analysts remain divided on whether current prices fully reflect the company's long-term earnings potential. As the post-IPO lock-up period expires and analyst coverage expands, volatility is likely to remain elevated.
+
+Ultimately, the debate is no longer about whether SpaceX is an exceptional company, but whether investors can separate a world-class business from a richly valued stock. The coming weeks should reveal whether the recent selloff represents a healthy reset or the beginning of a more prolonged valuation adjustment.
