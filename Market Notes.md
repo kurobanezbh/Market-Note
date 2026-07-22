@@ -43,3 +43,13 @@ Despite the correction, the longer-term investment case remains largely intact. 
 However, the recent weakness also highlights the risks associated with elevated expectations. SpaceX still trades at a premium valuation, while analysts remain divided on whether current prices fully reflect the company's long-term earnings potential. As the post-IPO lock-up period expires and analyst coverage expands, volatility is likely to remain elevated.
 
 Ultimately, the debate is no longer about whether SpaceX is an exceptional company, but whether investors can separate a world-class business from a richly valued stock. The coming weeks should reveal whether the recent selloff represents a healthy reset or the beginning of a more prolonged valuation adjustment.
+
+# 2026-07-22 Market Notes
+
+## Major Indexes Rise to Snap 3-Day Losing Streak as Chip, Memory Stocks Soar
+
+Monday's rebound suggests that investors are not ready to give up on the bull market just yet. After last week's pullback, buyers returned to large-cap technology names, helping the S&P 500 and Nasdaq recover as traders positioned for another heavy round of corporate earnings. The resilience of AI-related stocks continues to be the market's main source of support, and many investors still appear willing to treat short-term weakness as a buying opportunity rather than the start of a deeper correction.
+
+That said, the recovery feels more tactical than fully convincing. Treasury yields remain elevated, the Fed is still signaling that inflation risks have not disappeared, and valuations across parts of the technology sector remain demanding. A few strong earnings reports may be enough to extend the rally, but the bar is rising, and companies will need to deliver not only solid results but also reassuring guidance for the second half of the year.
+
+The next few days could be an important test of market leadership. If earnings continue to surprise on the upside, the dip-buying strategy may once again look justified. If not, investors may start questioning whether the market has become too dependent on a narrow group of mega-cap winners.
